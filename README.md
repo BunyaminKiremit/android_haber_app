@@ -8,7 +8,7 @@ Bu projede,haberler.com web sitesinden Jsoup,Glide ve WebView kullanarak haberle
 * Webviev
 * Jsoup
 * Glide  
- 
+* Html-parser  
 
 </p>
 
